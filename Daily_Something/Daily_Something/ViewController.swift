@@ -10,9 +10,15 @@ import UIKit
 
 class ViewController: UIViewController {
     var name = "Michael"
+    @IBOutlet var titleName: UILabel!
+    @IBOutlet var calendarButton: UIButton!
+    @IBOutlet var settings: UIButton!
+    @IBOutlet var timeLine: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        titleName.font = UIFont.boldSystemFontOfSize(24.0)
         
         // Do any additional setup after loading the view, typically from a nib.
     }

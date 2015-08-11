@@ -13,6 +13,20 @@
 		043FD7481B79CFD400366018 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 043FD7471B79CFD400366018 /* Images.xcassets */; };
 		043FD74B1B79CFD400366018 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 043FD7491B79CFD400366018 /* LaunchScreen.xib */; };
 		043FD7571B79CFD400366018 /* Daily_SomethingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043FD7561B79CFD400366018 /* Daily_SomethingTests.swift */; };
+		6FDBF93B1B79D5BF007269B5 /* ViewControllerSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDBF93A1B79D5BF007269B5 /* ViewControllerSetting.swift */; };
+		6FDBF93D1B79D641007269B5 /* ViewControllerEditProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDBF93C1B79D641007269B5 /* ViewControllerEditProfile.swift */; };
+		6FDBF93F1B79D64A007269B5 /* AlarmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDBF93E1B79D64A007269B5 /* AlarmViewController.swift */; };
+		6FDBF9411B79D655007269B5 /* AddAlarmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDBF9401B79D655007269B5 /* AddAlarmViewController.swift */; };
+		6FDBF9431B79D65D007269B5 /* TimeLineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDBF9421B79D65D007269B5 /* TimeLineViewController.swift */; };
+		6FDBF9451B79D666007269B5 /* WriteDiaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDBF9441B79D666007269B5 /* WriteDiaryViewController.swift */; };
+		6FDBF9471B79D671007269B5 /* calendar.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9461B79D671007269B5 /* calendar.png */; };
+		6FDBF9491B79D678007269B5 /* timeline.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9481B79D678007269B5 /* timeline.png */; };
+		6FDBF94B1B79D689007269B5 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDBF94A1B79D689007269B5 /* CustomTableViewCell.swift */; };
+		6FDBF94D1B79D694007269B5 /* Settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF94C1B79D694007269B5 /* Settings.png */; };
+		6FDBF9521B79D6A6007269B5 /* alarm.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF94E1B79D6A6007269B5 /* alarm.png */; };
+		6FDBF9531B79D6A6007269B5 /* mail.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF94F1B79D6A6007269B5 /* mail.png */; };
+		6FDBF9541B79D6A6007269B5 /* password.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9501B79D6A6007269B5 /* password.png */; };
+		6FDBF9551B79D6A6007269B5 /* person.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9511B79D6A6007269B5 /* person.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +50,20 @@
 		043FD7501B79CFD400366018 /* Daily_SomethingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Daily_SomethingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		043FD7551B79CFD400366018 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		043FD7561B79CFD400366018 /* Daily_SomethingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Daily_SomethingTests.swift; sourceTree = "<group>"; };
+		6FDBF93A1B79D5BF007269B5 /* ViewControllerSetting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerSetting.swift; sourceTree = "<group>"; };
+		6FDBF93C1B79D641007269B5 /* ViewControllerEditProfile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerEditProfile.swift; sourceTree = "<group>"; };
+		6FDBF93E1B79D64A007269B5 /* AlarmViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlarmViewController.swift; sourceTree = "<group>"; };
+		6FDBF9401B79D655007269B5 /* AddAlarmViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddAlarmViewController.swift; sourceTree = "<group>"; };
+		6FDBF9421B79D65D007269B5 /* TimeLineViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimeLineViewController.swift; sourceTree = "<group>"; };
+		6FDBF9441B79D666007269B5 /* WriteDiaryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WriteDiaryViewController.swift; sourceTree = "<group>"; };
+		6FDBF9461B79D671007269B5 /* calendar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calendar.png; sourceTree = "<group>"; };
+		6FDBF9481B79D678007269B5 /* timeline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = timeline.png; sourceTree = "<group>"; };
+		6FDBF94A1B79D689007269B5 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomTableViewCell.swift; path = ../../../MyJournal/MyJournal/CustomTableViewCell.swift; sourceTree = "<group>"; };
+		6FDBF94C1B79D694007269B5 /* Settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Settings.png; path = ../../../MyJournal/MyJournal/Settings.png; sourceTree = "<group>"; };
+		6FDBF94E1B79D6A6007269B5 /* alarm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = alarm.png; path = ../../../MyJournal/MyJournal/setting/alarm.png; sourceTree = "<group>"; };
+		6FDBF94F1B79D6A6007269B5 /* mail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mail.png; path = ../../../MyJournal/MyJournal/setting/mail.png; sourceTree = "<group>"; };
+		6FDBF9501B79D6A6007269B5 /* password.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = password.png; path = ../../../MyJournal/MyJournal/setting/password.png; sourceTree = "<group>"; };
+		6FDBF9511B79D6A6007269B5 /* person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = person.png; path = ../../../MyJournal/MyJournal/setting/person.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +108,21 @@
 				043FD7401B79CFD400366018 /* AppDelegate.swift */,
 				043FD7421B79CFD400366018 /* ViewController.swift */,
 				043FD7441B79CFD400366018 /* Main.storyboard */,
+				6FDBF93A1B79D5BF007269B5 /* ViewControllerSetting.swift */,
+				6FDBF93E1B79D64A007269B5 /* AlarmViewController.swift */,
+				6FDBF9401B79D655007269B5 /* AddAlarmViewController.swift */,
+				6FDBF93C1B79D641007269B5 /* ViewControllerEditProfile.swift */,
+				6FDBF9421B79D65D007269B5 /* TimeLineViewController.swift */,
+				6FDBF9441B79D666007269B5 /* WriteDiaryViewController.swift */,
+				6FDBF94A1B79D689007269B5 /* CustomTableViewCell.swift */,
 				043FD7471B79CFD400366018 /* Images.xcassets */,
+				6FDBF9461B79D671007269B5 /* calendar.png */,
+				6FDBF94C1B79D694007269B5 /* Settings.png */,
+				6FDBF9481B79D678007269B5 /* timeline.png */,
+				6FDBF94E1B79D6A6007269B5 /* alarm.png */,
+				6FDBF94F1B79D6A6007269B5 /* mail.png */,
+				6FDBF9501B79D6A6007269B5 /* password.png */,
+				6FDBF9511B79D6A6007269B5 /* person.png */,
 				043FD7491B79CFD400366018 /* LaunchScreen.xib */,
 				043FD73E1B79CFD400366018 /* Supporting Files */,
 			);
@@ -192,8 +234,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FDBF9541B79D6A6007269B5 /* password.png in Resources */,
+				6FDBF9491B79D678007269B5 /* timeline.png in Resources */,
+				6FDBF9521B79D6A6007269B5 /* alarm.png in Resources */,
 				043FD7461B79CFD400366018 /* Main.storyboard in Resources */,
+				6FDBF9551B79D6A6007269B5 /* person.png in Resources */,
+				6FDBF94D1B79D694007269B5 /* Settings.png in Resources */,
+				6FDBF9471B79D671007269B5 /* calendar.png in Resources */,
 				043FD74B1B79CFD400366018 /* LaunchScreen.xib in Resources */,
+				6FDBF9531B79D6A6007269B5 /* mail.png in Resources */,
 				043FD7481B79CFD400366018 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -212,8 +261,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FDBF94B1B79D689007269B5 /* CustomTableViewCell.swift in Sources */,
+				6FDBF9411B79D655007269B5 /* AddAlarmViewController.swift in Sources */,
+				6FDBF93F1B79D64A007269B5 /* AlarmViewController.swift in Sources */,
+				6FDBF9431B79D65D007269B5 /* TimeLineViewController.swift in Sources */,
+				6FDBF93D1B79D641007269B5 /* ViewControllerEditProfile.swift in Sources */,
+				6FDBF9451B79D666007269B5 /* WriteDiaryViewController.swift in Sources */,
 				043FD7431B79CFD400366018 /* ViewController.swift in Sources */,
 				043FD7411B79CFD400366018 /* AppDelegate.swift in Sources */,
+				6FDBF93B1B79D5BF007269B5 /* ViewControllerSetting.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -409,6 +465,7 @@
 				043FD75C1B79CFD400366018 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		043FD75D1B79CFD400366018 /* Build configuration list for PBXNativeTarget "Daily_SomethingTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +474,7 @@
 				043FD75F1B79CFD400366018 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
