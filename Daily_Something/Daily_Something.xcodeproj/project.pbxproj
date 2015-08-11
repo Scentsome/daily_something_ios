@@ -21,12 +21,12 @@
 		6FDBF9451B79D666007269B5 /* WriteDiaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDBF9441B79D666007269B5 /* WriteDiaryViewController.swift */; };
 		6FDBF9471B79D671007269B5 /* calendar.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9461B79D671007269B5 /* calendar.png */; };
 		6FDBF9491B79D678007269B5 /* timeline.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9481B79D678007269B5 /* timeline.png */; };
-		6FDBF94B1B79D689007269B5 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDBF94A1B79D689007269B5 /* CustomTableViewCell.swift */; };
 		6FDBF94D1B79D694007269B5 /* Settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF94C1B79D694007269B5 /* Settings.png */; };
 		6FDBF9521B79D6A6007269B5 /* alarm.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF94E1B79D6A6007269B5 /* alarm.png */; };
 		6FDBF9531B79D6A6007269B5 /* mail.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF94F1B79D6A6007269B5 /* mail.png */; };
 		6FDBF9541B79D6A6007269B5 /* password.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9501B79D6A6007269B5 /* password.png */; };
 		6FDBF9551B79D6A6007269B5 /* person.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9511B79D6A6007269B5 /* person.png */; };
+		6FDBF9571B79E18A007269B5 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDBF9561B79E18A007269B5 /* CustomTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,12 +58,12 @@
 		6FDBF9441B79D666007269B5 /* WriteDiaryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WriteDiaryViewController.swift; sourceTree = "<group>"; };
 		6FDBF9461B79D671007269B5 /* calendar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calendar.png; sourceTree = "<group>"; };
 		6FDBF9481B79D678007269B5 /* timeline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = timeline.png; sourceTree = "<group>"; };
-		6FDBF94A1B79D689007269B5 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomTableViewCell.swift; path = ../../../MyJournal/MyJournal/CustomTableViewCell.swift; sourceTree = "<group>"; };
 		6FDBF94C1B79D694007269B5 /* Settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Settings.png; path = ../../../MyJournal/MyJournal/Settings.png; sourceTree = "<group>"; };
 		6FDBF94E1B79D6A6007269B5 /* alarm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = alarm.png; path = ../../../MyJournal/MyJournal/setting/alarm.png; sourceTree = "<group>"; };
 		6FDBF94F1B79D6A6007269B5 /* mail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mail.png; path = ../../../MyJournal/MyJournal/setting/mail.png; sourceTree = "<group>"; };
 		6FDBF9501B79D6A6007269B5 /* password.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = password.png; path = ../../../MyJournal/MyJournal/setting/password.png; sourceTree = "<group>"; };
 		6FDBF9511B79D6A6007269B5 /* person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = person.png; path = ../../../MyJournal/MyJournal/setting/person.png; sourceTree = "<group>"; };
+		6FDBF9561B79E18A007269B5 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,9 +112,9 @@
 				6FDBF93E1B79D64A007269B5 /* AlarmViewController.swift */,
 				6FDBF9401B79D655007269B5 /* AddAlarmViewController.swift */,
 				6FDBF93C1B79D641007269B5 /* ViewControllerEditProfile.swift */,
+				6FDBF9561B79E18A007269B5 /* CustomTableViewCell.swift */,
 				6FDBF9421B79D65D007269B5 /* TimeLineViewController.swift */,
 				6FDBF9441B79D666007269B5 /* WriteDiaryViewController.swift */,
-				6FDBF94A1B79D689007269B5 /* CustomTableViewCell.swift */,
 				043FD7471B79CFD400366018 /* Images.xcassets */,
 				6FDBF9461B79D671007269B5 /* calendar.png */,
 				6FDBF94C1B79D694007269B5 /* Settings.png */,
@@ -261,7 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6FDBF94B1B79D689007269B5 /* CustomTableViewCell.swift in Sources */,
+				6FDBF9571B79E18A007269B5 /* CustomTableViewCell.swift in Sources */,
 				6FDBF9411B79D655007269B5 /* AddAlarmViewController.swift in Sources */,
 				6FDBF93F1B79D64A007269B5 /* AlarmViewController.swift in Sources */,
 				6FDBF9431B79D65D007269B5 /* TimeLineViewController.swift in Sources */,
