@@ -21,12 +21,12 @@
 		6FDBF9451B79D666007269B5 /* WriteDiaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDBF9441B79D666007269B5 /* WriteDiaryViewController.swift */; };
 		6FDBF9471B79D671007269B5 /* calendar.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9461B79D671007269B5 /* calendar.png */; };
 		6FDBF9491B79D678007269B5 /* timeline.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9481B79D678007269B5 /* timeline.png */; };
-		6FDBF94D1B79D694007269B5 /* Settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF94C1B79D694007269B5 /* Settings.png */; };
-		6FDBF9521B79D6A6007269B5 /* alarm.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF94E1B79D6A6007269B5 /* alarm.png */; };
-		6FDBF9531B79D6A6007269B5 /* mail.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF94F1B79D6A6007269B5 /* mail.png */; };
-		6FDBF9541B79D6A6007269B5 /* password.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9501B79D6A6007269B5 /* password.png */; };
-		6FDBF9551B79D6A6007269B5 /* person.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9511B79D6A6007269B5 /* person.png */; };
 		6FDBF9571B79E18A007269B5 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDBF9561B79E18A007269B5 /* CustomTableViewCell.swift */; };
+		6FDBF9591B79E24B007269B5 /* alarm.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9581B79E24B007269B5 /* alarm.png */; };
+		6FDBF95B1B79E256007269B5 /* mail.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF95A1B79E256007269B5 /* mail.png */; };
+		6FDBF95D1B79E25E007269B5 /* password.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF95C1B79E25E007269B5 /* password.png */; };
+		6FDBF95F1B79E264007269B5 /* person.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF95E1B79E264007269B5 /* person.png */; };
+		6FDBF9611B79E26E007269B5 /* Settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FDBF9601B79E26E007269B5 /* Settings.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,12 +58,12 @@
 		6FDBF9441B79D666007269B5 /* WriteDiaryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WriteDiaryViewController.swift; sourceTree = "<group>"; };
 		6FDBF9461B79D671007269B5 /* calendar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calendar.png; sourceTree = "<group>"; };
 		6FDBF9481B79D678007269B5 /* timeline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = timeline.png; sourceTree = "<group>"; };
-		6FDBF94C1B79D694007269B5 /* Settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Settings.png; path = ../../../MyJournal/MyJournal/Settings.png; sourceTree = "<group>"; };
-		6FDBF94E1B79D6A6007269B5 /* alarm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = alarm.png; path = ../../../MyJournal/MyJournal/setting/alarm.png; sourceTree = "<group>"; };
-		6FDBF94F1B79D6A6007269B5 /* mail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mail.png; path = ../../../MyJournal/MyJournal/setting/mail.png; sourceTree = "<group>"; };
-		6FDBF9501B79D6A6007269B5 /* password.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = password.png; path = ../../../MyJournal/MyJournal/setting/password.png; sourceTree = "<group>"; };
-		6FDBF9511B79D6A6007269B5 /* person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = person.png; path = ../../../MyJournal/MyJournal/setting/person.png; sourceTree = "<group>"; };
 		6FDBF9561B79E18A007269B5 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
+		6FDBF9581B79E24B007269B5 /* alarm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alarm.png; sourceTree = "<group>"; };
+		6FDBF95A1B79E256007269B5 /* mail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mail.png; sourceTree = "<group>"; };
+		6FDBF95C1B79E25E007269B5 /* password.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = password.png; sourceTree = "<group>"; };
+		6FDBF95E1B79E264007269B5 /* person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = person.png; sourceTree = "<group>"; };
+		6FDBF9601B79E26E007269B5 /* Settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Settings.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,12 +117,12 @@
 				6FDBF9441B79D666007269B5 /* WriteDiaryViewController.swift */,
 				043FD7471B79CFD400366018 /* Images.xcassets */,
 				6FDBF9461B79D671007269B5 /* calendar.png */,
-				6FDBF94C1B79D694007269B5 /* Settings.png */,
 				6FDBF9481B79D678007269B5 /* timeline.png */,
-				6FDBF94E1B79D6A6007269B5 /* alarm.png */,
-				6FDBF94F1B79D6A6007269B5 /* mail.png */,
-				6FDBF9501B79D6A6007269B5 /* password.png */,
-				6FDBF9511B79D6A6007269B5 /* person.png */,
+				6FDBF95C1B79E25E007269B5 /* password.png */,
+				6FDBF95E1B79E264007269B5 /* person.png */,
+				6FDBF9601B79E26E007269B5 /* Settings.png */,
+				6FDBF95A1B79E256007269B5 /* mail.png */,
+				6FDBF9581B79E24B007269B5 /* alarm.png */,
 				043FD7491B79CFD400366018 /* LaunchScreen.xib */,
 				043FD73E1B79CFD400366018 /* Supporting Files */,
 			);
@@ -234,16 +234,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6FDBF9541B79D6A6007269B5 /* password.png in Resources */,
+				6FDBF9611B79E26E007269B5 /* Settings.png in Resources */,
+				6FDBF95B1B79E256007269B5 /* mail.png in Resources */,
 				6FDBF9491B79D678007269B5 /* timeline.png in Resources */,
-				6FDBF9521B79D6A6007269B5 /* alarm.png in Resources */,
+				6FDBF95D1B79E25E007269B5 /* password.png in Resources */,
 				043FD7461B79CFD400366018 /* Main.storyboard in Resources */,
-				6FDBF9551B79D6A6007269B5 /* person.png in Resources */,
-				6FDBF94D1B79D694007269B5 /* Settings.png in Resources */,
 				6FDBF9471B79D671007269B5 /* calendar.png in Resources */,
 				043FD74B1B79CFD400366018 /* LaunchScreen.xib in Resources */,
-				6FDBF9531B79D6A6007269B5 /* mail.png in Resources */,
+				6FDBF95F1B79E264007269B5 /* person.png in Resources */,
 				043FD7481B79CFD400366018 /* Images.xcassets in Resources */,
+				6FDBF9591B79E24B007269B5 /* alarm.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
